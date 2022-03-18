@@ -1,3 +1,4 @@
 # stock_watcher
 
-![IMG_9135](https://user-images.githubusercontent.com/73370828/158938047-3fc18e3e-8155-46da-8055-8409e70a4bf6.JPG)
+![IMG_9135](https://user-images.githubusercontent.com/73370828/158938197-42700074-46d5-4950-b9aa-6b82e564324b.JPG)
+
